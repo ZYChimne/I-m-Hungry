@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>麦当劳</key>
+	<dict>
+		<key>安格斯厚牛堡</key>
+		<array>
+			<string>32</string>
+			<string>酥脆的炸洋葱，酸甜微辣的烟熏烧烤酱，奶香十足的高达芝士，搭配甄选进口安格斯厚牛肉，肉质鲜嫩，多汁，厚实。</string>
+		</array>
+		<key>麦麦脆汁鸡</key>
+		<array>
+			<string>13</string>
+			<string>创新黑科技成就美式炸鸡，外皮喷香酥脆，内里鲜嫩多汁，每一口都入味，每一只都大块！</string>
+		</array>
+		<key>那么大鲜柠特饮</key>
+		<array>
+			<string>14</string>
+			<string>饮料遇上鲜柠特饮，陪你酸爽到底</string>
+		</array>
+	</dict>
+	<key>肯德基</key>
+	<dict>
+		<key>新奥尔良烤鸡腿堡</key>
+		<array>
+			<string>18</string>
+			<string>甄选鸡腿配上新奥尔良风味烤肉酱，美味嚼不停</string>
+		</array>
+		<key>薯条</key>
+		<array>
+			<string>8</string>
+			<string>全新口味的金黄色薯条，香脆到底</string>
+		</array>
+		<key>日本白桃冰淇淋花筒</key>
+		<array>
+			<string>10</string>
+			<string>亲选日本北海道的新鲜白桃，配上新西兰进口的香浓奶油，每一口都很甜美</string>
+		</array>
+	</dict>
+	<key>汉堡王</key>
+	<dict>
+		<key>三层皇堡</key>
+		<array>
+			<string>45</string>
+			<string>三层牛肉夹心的超大汉堡，每口都是肉！</string>
+		</array>
+		<key>蔬菜色拉</key>
+		<array>
+			<string>14</string>
+			<string>色拉配汉堡，营养更均衡</string>
+		</array>
+		<key>火龙果粒粒</key>
+		<array>
+			<string>16</string>
+			<string>新鲜火龙果摇粒而成，给你一杯满满的维生素C</string>
+		</array>
+	</dict>
+</dict>
+</plist>

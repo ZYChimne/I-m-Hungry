@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>关于作者</key>
+	<string>我是来自武汉大学计算机学院2018级计算机科学与技术系的学生哇</string>
+	<key>关于App</key>
+	<string>这是我第一次使用Xcode开发一个简单的餐厅的App，难免还有很多不足之处，还望多多指教</string>
+</dict>
+</plist>
